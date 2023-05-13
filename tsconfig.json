@@ -18,7 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
+    "files": ["globals.d.ts"],
     "jsx": "react-jsx"
+
   },
   "include": [
     "src"
