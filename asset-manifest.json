@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Card-designer-app/static/css/main.5d6f9fab.css",
+    "main.js": "/Card-designer-app/static/js/main.1762d691.js",
+    "static/media/SpaceGrotesk-Medium.ttf": "/Card-designer-app/static/media/SpaceGrotesk-Medium.c71e15d5ceb1c9e6e05d.ttf",
+    "static/media/desktop.png": "/Card-designer-app/static/media/desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/back.png": "/Card-designer-app/static/media/back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/front.png": "/Card-designer-app/static/media/front.8153e2ca184402a8385f.png",
+    "static/media/mobile.png": "/Card-designer-app/static/media/mobile.caa4689407777a312ede.png",
+    "index.html": "/Card-designer-app/index.html",
+    "static/media/complete.svg": "/Card-designer-app/static/media/complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "main.5d6f9fab.css.map": "/Card-designer-app/static/css/main.5d6f9fab.css.map",
+    "main.1762d691.js.map": "/Card-designer-app/static/js/main.1762d691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6f9fab.css",
+    "static/js/main.1762d691.js"
+  ]
+}
